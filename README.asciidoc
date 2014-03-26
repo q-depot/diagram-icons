@@ -1,0 +1,12 @@
+diagram-icons
+=============
+
+:imagesdir: .
+:iconsdir: {imagesdir}
+
+SVG-based computer and server icons for diagrams, presentations, etc. Made in Inkscape using an axonometric view.
+
+Rackmount items are designed to be visually stackable if desired, or used separately.
+
+.An example stack and computers.
+image::example_stack.png[]
