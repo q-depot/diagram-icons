@@ -3,6 +3,14 @@
 for SVG in $(find ./scalable -type f);
 do
     FILENAME=${SVG##*/}
-    FILENAME=${FILENAME%.svg}.png
-    inkscape -e ./png/$FILENAME $SVG
+    FILENAME=${FILENAME%.svg}_256.png
+    inkscape -d 90 -e ./png/$FILENAME $SVG
 done
+
+for SVG in $(find ./scalable -type f);
+do
+    FILENAME=${SVG##*/}
+    FILENAME=${FILENAME%.svg}_512.png
+    inkscape -d 180 -e ./png/$FILENAME $SVG
+done
+
