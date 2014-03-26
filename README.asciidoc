@@ -6,6 +6,8 @@ diagram-icons
 
 SVG-based computer and server icons for diagrams, presentations, etc. Made in Inkscape using an axonometric view.
 
+Scalable vector-based graphics are in 'scalable', pre-exported PNGs in different sizes can be found under 'png'.
+
 Rackmount items are designed to be visually stackable if desired, or used separately.
 
 .An example stack and computers.
