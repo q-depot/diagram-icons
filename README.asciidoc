@@ -10,5 +10,8 @@ Scalable vector-based graphics are in 'scalable', pre-exported PNGs in different
 
 Rackmount items are designed to be visually stackable if desired, or used separately.
 
-.An example stack and computers.
 image::example_stack.png[]
+
+This project is CC-BY-SA 4.0; for more information, see 'LICENSE'.
+
+image::http://i.creativecommons.org/l/by-sa/4.0/88x31.png[]
