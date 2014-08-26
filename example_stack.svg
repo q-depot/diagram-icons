@@ -15,7 +15,7 @@
    version="1.1"
    inkscape:version="0.48.4 r9939"
    sodipodi:docname="example_stack.svg"
-   inkscape:export-filename="/home/adamdifrischia/Documents/diagram-icons/scalable/example_stack.png"
+   inkscape:export-filename="/home/adamdifrischia/Documents/diagram-icons/example_stack.png"
    inkscape:export-xdpi="90.029099"
    inkscape:export-ydpi="90.029099">
   <defs
@@ -139,11 +139,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="147.10514"
-     inkscape:cy="333.79745"
+     inkscape:cx="426.15064"
+     inkscape:cy="543.77293"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:object-nodes="true"
      inkscape:window-width="1680"
      inkscape:window-height="942"
@@ -174,7 +174,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
